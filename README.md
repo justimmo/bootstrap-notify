@@ -7,11 +7,6 @@ If toy would like to download the latest stable release please follow the link b
 
 Please keep in mind that the master branch may contain bugs or broken code. Please use the link above if you are not able to debug and correct issues in the master branch. Thank you.
 
-## Bower Officially Supported
-I would like to thank [Błażej Krysiak](https://github.com/IjinPL) for doing this!
-```
-bower install remarkable-bootstrap-notify
-```
 
 ## Meteor Officially Supported
 Meteor integration by [zimme](https://github.com/zimme).
@@ -21,6 +16,8 @@ meteor add mouse0270:bootstrap-notify
 ```
 
 ## Changelog
+#### Version 3.1.8
+
 #### Version 3.1.5 provided by [chrismbarr](https://github.com/chrismbarr) - *Testing*
 - Cleaned Up Code
 - Fixed Spelling
